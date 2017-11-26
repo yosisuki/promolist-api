@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tix-api-controllers" />
+        <module name="tix-api-entities" />
+        <module name="tix-api-repositories" />
+        <module name="tix-api-services" />
+        <module name="tix-api-services-impl" />
+        <module name="tix-api-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="promo" target="1.8" />
+      <module name="tix-api-controllers" target="1.8" />
+      <module name="tix-api-entities" target="1.8" />
+      <module name="tix-api-repositories" target="1.8" />
+      <module name="tix-api-services" target="1.8" />
+      <module name="tix-api-services-impl" target="1.8" />
+      <module name="tix-api-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

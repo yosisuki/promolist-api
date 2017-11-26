@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/promo.iml" filepath="$PROJECT_DIR$/promo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tix-api-controllers/tix-api-controllers.iml" filepath="$PROJECT_DIR$/tix-api-controllers/tix-api-controllers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tix-api-entities/tix-api-entities.iml" filepath="$PROJECT_DIR$/tix-api-entities/tix-api-entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tix-api-repositories/tix-api-repositories.iml" filepath="$PROJECT_DIR$/tix-api-repositories/tix-api-repositories.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tix-api-services/tix-api-services.iml" filepath="$PROJECT_DIR$/tix-api-services/tix-api-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tix-api-services-impl/tix-api-services-impl.iml" filepath="$PROJECT_DIR$/tix-api-services-impl/tix-api-services-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tix-api-web/tix-api-web.iml" filepath="$PROJECT_DIR$/tix-api-web/tix-api-web.iml" />
+    </modules>
+  </component>
+</project>
